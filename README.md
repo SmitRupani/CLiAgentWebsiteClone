@@ -63,7 +63,7 @@ CLIAgent/
 1. Open project folder:
 
 ```bash
-cd /home/smit/Desktop/ExternalAssignments/GenAI/CLIAgent
+cd /home/.../GenAI/CLIAgent
 ```
 
 2. Install dependencies:
