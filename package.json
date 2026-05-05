@@ -1,0 +1,25 @@
+{
+  "name": "ai-cli-agent",
+  "version": "1.0.0",
+  "description": "Conversational CLI agent that clones the Scaler Academy website using AI",
+  "main": "agent.js",
+  "keywords": [
+    "ai",
+    "cli",
+    "agent",
+    "scaler"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "axios": "^1.16.0",
+    "dotenv": "^17.4.2",
+    "openai": "^6.36.0",
+    "puppeteer": "^24.42.0"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node agent.js"
+  }
+}
